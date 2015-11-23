@@ -52,6 +52,8 @@ add_service_files(
 
   /SpeechDetectionGoogleWrapper/SpeechToTextSrv.srv
 
+  /MailManagement/MailSend.srv
+
   /SpeechDetectionSphinx4Wrapper/SpeechRecognitionSphinx4Srv.srv
   /SpeechDetectionSphinx4Wrapper/SpeechRecognitionSphinx4ConfigureSrv.srv
   /SpeechDetectionSphinx4Wrapper/SpeechRecognitionSphinx4TotalSrv.srv
